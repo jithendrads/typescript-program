@@ -1,4 +1,4 @@
-let sport:string[]=["Cricket","Hockey"]
+let sport:string[]=["Cricket","Hockey","Vollyball"]
 for(let temp of sport)
 {
     console.log(temp);
